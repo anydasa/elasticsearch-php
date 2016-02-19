@@ -74,7 +74,7 @@ A simple example might look like this:
 for($i = 0; $i < 100; $i++) {
     $params['body'][] = [
         'index' => 'my_index',
-                    'type' => 'my_type',
+        'type'  => 'my_type',
     ];
 
     $params['body'][] = [
